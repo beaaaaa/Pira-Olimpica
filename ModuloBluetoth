@@ -1,0 +1,11 @@
+https://www.blogdarobotica.com/2023/02/13/como-utilizar-o-modulo-bluetooth-hc-05-com-arduino/
+https://ai.thestempedia.com/docs/pictoblox/arduino-uno-with-pictoblox/interface-dabble-project-making-app-with-arduino-using-pictoblox/
+1) Instalar a biblioteca dabble no arduino
+2) Instalar o app Dabble 
+3) conexões: 
+VCC - 5V
+GND - GND
+TX - pin2
+RX - pin3
+https://droiduino-cc.medium.com/changing-arduino-bluetooth-name-if-you-are-using-hc05-module-6f184a242467
+https://www.makerhero.com/blog/tutorial-arduino-bluetooth-hc-05-mestre/?srsltid=AfmBOoqJ3_MoZqZfGad7toRbFOhERwylNMoZLv19dJxzSxP9Ww_IZabY
